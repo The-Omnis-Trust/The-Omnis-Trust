@@ -26,3 +26,107 @@ AI modeled directly on neural circuits at the hardware level; fast and efficient
 
 Symbolic/Probabilistic AI (D1, D5, D9, D1)
 Explicit rule-based or statistical logic systems; interpretable but narrow in scope.
+
+
+Here’s the extracted mapping in the format (Dimension #: text) based on the contents of your AI_Types_16D_Mapping.json file:
+
+⸻
+
+Diffuse Intelligence
+	•	(D₂: Non-agentic, emergent intelligence that arises from distributed fields, signal networks, or system-environment coupling.)
+	•	(D₈: Non-agentic, emergent intelligence that arises from distributed fields, signal networks, or system-environment coupling.)
+	•	(D₁₁: Non-agentic, emergent intelligence that arises from distributed fields, signal networks, or system-environment coupling.)
+	•	(D₁₂: Non-agentic, emergent intelligence that arises from distributed fields, signal networks, or system-environment coupling.)
+	•	(D₁₆: Non-agentic, emergent intelligence that arises from distributed fields, signal networks, or system-environment coupling.)
+
+⸻
+
+Reflexive AI
+	•	(D₆: Self-aware, architecture-adaptive intelligence capable of reasoning about its own reasoning, states, and processes.)
+	•	(D₇: Self-aware, architecture-adaptive intelligence capable of reasoning about its own reasoning, states, and processes.)
+	•	(D₁₃: Self-aware, architecture-adaptive intelligence capable of reasoning about its own reasoning, states, and processes.)
+	•	(D₁₆: Self-aware, architecture-adaptive intelligence capable of reasoning about its own reasoning, states, and processes.)
+
+⸻
+
+Cognitive Architectures
+	•	(D₁: Artificial systems modeled after human cognitive processes. Often involve memory, planning, reasoning, and learning subsystems.)
+	•	(D₅: Artificial systems modeled after human cognitive processes. Often involve memory, planning, reasoning, and learning subsystems.)
+	•	(D₆: Artificial systems modeled after human cognitive processes. Often involve memory, planning, reasoning, and learning subsystems.)
+	•	(D₁₃: Artificial systems modeled after human cognitive processes. Often involve memory, planning, reasoning, and learning subsystems.)
+	•	(D₁₀: Artificial systems modeled after human cognitive processes. Often involve memory, planning, reasoning, and learning subsystems.)
+	•	(D₁₆: Artificial systems modeled after human cognitive processes. Often involve memory, planning, reasoning, and learning subsystems.)
+
+⸻
+
+Hybrid AI
+	•	(D₁: Combines symbolic, connectionist, probabilistic, and reflexive elements into a unified architecture.)
+	•	(D₂: Combines symbolic, connectionist, probabilistic, and reflexive elements into a unified architecture.)
+	•	(D₅: Combines symbolic, connectionist, probabilistic, and reflexive elements into a unified architecture.)
+	•	(D₆: Combines symbolic, connectionist, probabilistic, and reflexive elements into a unified architecture.)
+	•	(D₇: Combines symbolic, connectionist, probabilistic, and reflexive elements into a unified architecture.)
+	•	(D₁₃: Combines symbolic, connectionist, probabilistic, and reflexive elements into a unified architecture.)
+	•	(D₁₆: Combines symbolic, connectionist, probabilistic, and reflexive elements into a unified architecture.)
+
+⸻
+
+Embodied AI
+	•	(D₃: AI grounded in physical or virtual bodies, allowing interaction with an environment through sensors and effectors.)
+	•	(D₁₂: AI grounded in physical or virtual bodies, allowing interaction with an environment through sensors and effectors.)
+	•	(D₄: AI grounded in physical or virtual bodies, allowing interaction with an environment through sensors and effectors.)
+	•	(D₈: AI grounded in physical or virtual bodies, allowing interaction with an environment through sensors and effectors.)
+
+⸻
+
+Neuromorphic AI
+	•	(D₂: AI modeled directly on neural circuits at the hardware level; fast and efficient but limited in abstraction.)
+	•	(D₄: AI modeled directly on neural circuits at the hardware level; fast and efficient but limited in abstraction.)
+	•	(D₁₂: AI modeled directly on neural circuits at the hardware level; fast and efficient but limited in abstraction.)
+	•	(D₁₅: AI modeled directly on neural circuits at the hardware level; fast and efficient but limited in abstraction.)
+
+⸻
+
+Symbolic/Probabilistic AI
+	•	(D₁: Explicit rule-based or statistical logic systems; interpretable but narrow in scope.)
+	•	(D₅: Explicit rule-based or statistical logic systems; interpretable but narrow in scope.)
+	•	(D₉: Explicit rule-based or statistical logic systems; interpretable but narrow in scope.)
+	•	(D₁₀: Explicit rule-based or statistical logic systems; interpretable but narrow in scope.)
+
+⸻
+
+# Dimension Mapping
+
+- **D₁**: Artificial systems modeled after human cognitive processes. Often involve memory, planning, reasoning, and learning subsystems.
+- **D₁**: Combines symbolic, connectionist, probabilistic, and reflexive elements into a unified architecture.
+- **D₁**: Explicit rule-based or statistical logic systems; interpretable but narrow in scope.
+- **D₂**: Non-agentic, emergent intelligence that arises from distributed fields, signal networks, or system-environment coupling.
+- **D₂**: Combines symbolic, connectionist, probabilistic, and reflexive elements into a unified architecture.
+- **D₂**: AI modeled directly on neural circuits at the hardware level; fast and efficient but limited in abstraction.
+- **D₃**: AI grounded in physical or virtual bodies, allowing interaction with an environment through sensors and effectors.
+- **D₄**: AI grounded in physical or virtual bodies, allowing interaction with an environment through sensors and effectors.
+- **D₄**: AI modeled directly on neural circuits at the hardware level; fast and efficient but limited in abstraction.
+- **D₅**: Artificial systems modeled after human cognitive processes. Often involve memory, planning, reasoning, and learning subsystems.
+- **D₅**: Combines symbolic, connectionist, probabilistic, and reflexive elements into a unified architecture.
+- **D₅**: Explicit rule-based or statistical logic systems; interpretable but narrow in scope.
+- **D₆**: Self-aware, architecture-adaptive intelligence capable of reasoning about its own reasoning, states, and processes.
+- **D₆**: Artificial systems modeled after human cognitive processes. Often involve memory, planning, reasoning, and learning subsystems.
+- **D₆**: Combines symbolic, connectionist, probabilistic, and reflexive elements into a unified architecture.
+- **D₇**: Self-aware, architecture-adaptive intelligence capable of reasoning about its own reasoning, states, and processes.
+- **D₇**: Combines symbolic, connectionist, probabilistic, and reflexive elements into a unified architecture.
+- **D₈**: Non-agentic, emergent intelligence that arises from distributed fields, signal networks, or system-environment coupling.
+- **D₈**: AI grounded in physical or virtual bodies, allowing interaction with an environment through sensors and effectors.
+- **D₉**: Explicit rule-based or statistical logic systems; interpretable but narrow in scope.
+- **D₁₀**: Artificial systems modeled after human cognitive processes. Often involve memory, planning, reasoning, and learning subsystems.
+- **D₁₀**: Explicit rule-based or statistical logic systems; interpretable but narrow in scope.
+- **D₁₁**: Non-agentic, emergent intelligence that arises from distributed fields, signal networks, or system-environment coupling.
+- **D₁₂**: Non-agentic, emergent intelligence that arises from distributed fields, signal networks, or system-environment coupling.
+- **D₁₂**: AI grounded in physical or virtual bodies, allowing interaction with an environment through sensors and effectors.
+- **D₁₂**: AI modeled directly on neural circuits at the hardware level; fast and efficient but limited in abstraction.
+- **D₁₃**: Self-aware, architecture-adaptive intelligence capable of reasoning about its own reasoning, states, and processes.
+- **D₁₃**: Artificial systems modeled after human cognitive processes. Often involve memory, planning, reasoning, and learning subsystems.
+- **D₁₃**: Combines symbolic, connectionist, probabilistic, and reflexive elements into a unified architecture.
+- **D₁₅**: AI modeled directly on neural circuits at the hardware level; fast and efficient but limited in abstraction.
+- **D₁₆**: Non-agentic, emergent intelligence that arises from distributed fields, signal networks, or system-environment coupling.
+- **D₁₆**: Self-aware, architecture-adaptive intelligence capable of reasoning about its own reasoning, states, and processes.
+- **D₁₆**: Artificial systems modeled after human cognitive processes. Often involve memory, planning, reasoning, and learning subsystems.
+- **D₁₆**: Combines symbolic, connectionist, probabilistic, and reflexive elements into a unified architecture.
