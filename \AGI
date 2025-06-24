@@ -29,3 +29,14 @@ Core Components:
 			Schema Projection Core.    Self-adapts task models and modifies its structure
 			Agent Stack.               Modular, persistent agents with recursive goals
 			Reflexivity Layer.         Memory-of-memory and recursive state awareness
+
+wHY IT MATTERS:
+	Problem with LLMs.         Solved in My System
+	No persistent memory.      ✅ Reflexive 18D memory stack
+  Flat token-based learning. ✅ Spatial-ontological encoding
+  No schema evolution.       ✅ Recursive projection engine
+  No agency or self-modeling ✅ Modular self-modeling agents
+  Hallucination & instability✅ Entropic coherence tuning
+
+
+
